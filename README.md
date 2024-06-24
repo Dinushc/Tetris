@@ -1,2 +1,1 @@
-# Tetris
-a very first tetris in C++ using raylib
+<h1>TETRIS with C++ using raylib</h1>
